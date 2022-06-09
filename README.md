@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **MongoDB, Oracle, Javascript, Node**
 
-- 📫 How to reach me **forgione67@gmail.com**
-
 - ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
 <h3 >Connect with me:</h3>
