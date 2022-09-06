@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
 
-<img align="right" width="400"  src="https://github.com/feliceforgione/feliceforgione/blob/main/img/animation_desk.gif">
+
 
 - 🔭 I’m currently working on [iEats](https://github.com/feliceforgione/iEats)
 
