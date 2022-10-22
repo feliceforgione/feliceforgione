@@ -9,14 +9,14 @@
 
 - ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
-<h3 >Connect with me:</h3>
+
 <p >
 <a href="https://twitter.com/forgione67" target="blank"><img align="center" src="https://github.com/feliceforgione/feliceforgione/blob/main/img/twitter-logo.png" alt="forgione67" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/feliceforgione" target="blank"><img align="center" src="https://github.com/feliceforgione/feliceforgione/blob/main/img/linkedin.png" alt="feliceforgione" height="30" width="40" /></a>
 </p>
 <div align="none" style="clear: both"> </div>
-### Skills
 
+### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -40,9 +40,9 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+### GitHub Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&locale=en" alt="feliceforgione" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&" alt="feliceforgione" /></p>
