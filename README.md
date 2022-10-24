@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [feliceforgione.com](feliceforgione.com)
 
-- 💬 Ask me about **MongoDB, Oracle, Javascript, Node**
+- 💬 Ask me about **Javascript, Node, React, MongoDB, Oracle**
 
 - ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
