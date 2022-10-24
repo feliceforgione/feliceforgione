@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Felice Forgione</h1>
+![logo](https://github.com/feliceforgione/feliceforgione/blob/main/img/githubbanner.jpg)
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
 - 🔭 I’m currently working on [iEats](https://github.com/feliceforgione/iEats)
