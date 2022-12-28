@@ -1,7 +1,7 @@
 ![logo](https://github.com/feliceforgione/feliceforgione/blob/main/img/githubbanner.jpg)
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
-- 🔭 I’m currently working on [iEats](https://github.com/feliceforgione/iEats)
+- 🔭 I’m currently working on [foodiegram](https://github.com/feliceforgione/foodiegram)
 
 - 👨‍💻 All of my projects are available at [feliceforgione.com](feliceforgione.com)
 
