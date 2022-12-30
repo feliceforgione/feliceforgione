@@ -1,13 +1,13 @@
 ![logo](https://github.com/feliceforgione/feliceforgione/blob/main/img/githubbanner.jpg)
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
-- 🔭 I’m currently working on [foodiegram](https://github.com/feliceforgione/foodiegram)
+🔭 I’m currently working on [foodiegram](https://github.com/feliceforgione/foodiegram)
 
-- 👨‍💻 All of my projects are available at [feliceforgione.com](feliceforgione.com)
+👨‍💻 All of my projects are available at [feliceforgione.com](feliceforgione.com)
 
-- 💬 Ask me about **Javascript, Node, React, MongoDB, Oracle**
+💬 Ask me about **Javascript, Node, React, MongoDB, Oracle**
 
-- ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
+⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
 
 
