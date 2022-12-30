@@ -10,10 +10,7 @@
 - ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
 
-<p >
-<a href="https://twitter.com/forgione67" target="blank"><img align="center" src="https://github.com/feliceforgione/feliceforgione/blob/main/img/twitter-logo.png" alt="forgione67" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/feliceforgione" target="blank"><img align="center" src="https://github.com/feliceforgione/feliceforgione/blob/main/img/linkedin.png" alt="feliceforgione" height="30" width="40" /></a>
-</p>
+
 <div align="none" style="clear: both"> </div>
 
 ### Skills
