@@ -39,9 +39,9 @@
 <p align="left"> <a href="https://www.github.com/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### GitHub Stats
-<p style="display: flex; justify-content: space-between">
-<img  src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&theme=tokyonight" />
+<div style="display: flex; justify-content: space-between">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&theme=tokyonight" />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight"/>
-</p>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight"/>
+</div>
 
