@@ -13,7 +13,7 @@
 
 <div align="none" style="clear: both"> </div>
 
-### Skills
+## Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -34,11 +34,17 @@
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### GitHub Stats
+## Featured Work
+<a href="https://github.com/feliceforgione/foodiegram"><img src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png" width="49%" /></a>
+<a href="https://github.com/feliceforgione/ieats"><img src="https://user-images.githubusercontent.com/93881327/210208962-4e2081e2-8fd2-44e9-bc68-0da71b65e66a.png" width="49%" /></a> 
+
+
+
+## GitHub Stats
 <div style="display: flex; justify-content: space-between">
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&theme=tokyonight" />
 
