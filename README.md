@@ -46,8 +46,8 @@
 
 ## GitHub Stats
 <div style="display: flex; justify-content: space-between">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&theme=tokyonight" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=feliceforgione&show_icons=true&theme=tokyonight" width="49%"/>
 
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight"/>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight" width="49%"/>
 </div>
 
