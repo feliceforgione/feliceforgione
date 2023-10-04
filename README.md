@@ -39,9 +39,11 @@
 <p align="left"> <a href="https://www.github.com/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/feliceforgione" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## Featured Work
-<a href="https://github.com/feliceforgione/foodiegram"><img src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png" width="49%" /></a>
-<a href="https://github.com/feliceforgione/iEats2"><img src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg" width="49%" /></a> 
-<a href="https://github.com/feliceforgione/otc_api"><img src="https://raw.githubusercontent.com/feliceforgione/otc_api/main/public/otc_api_homeScreenshot.png" width="49%" /></a> 
+<a href="https://github.com/feliceforgione/foodiegram"><img src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png" width="49%" height="500px" /></a>
+<a href="https://github.com/feliceforgione/iEats2"><img src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg" width="49%" height="500px" /></a> 
+<hr width="98%" />
+<a href="https://github.com/feliceforgione/medicineCabinet"><img src="https://raw.githubusercontent.com/feliceforgione/medicineCabinet/main/public/medicineCabinetScreenshot.png" width="49%" height="500px" /></a> 
+<a href="https://github.com/feliceforgione/otc_api"><img src="https://raw.githubusercontent.com/feliceforgione/otc_api/main/public/otc_api_homeScreenshot.png" width="49%" height="500px" /></a> 
 
 
 
