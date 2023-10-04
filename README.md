@@ -40,7 +40,7 @@
 
 ## Featured Work
 <a href="https://github.com/feliceforgione/foodiegram"><img src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png" width="49%" /></a>
-<a href="https://github.com/feliceforgione/iEats"><img src="https://user-images.githubusercontent.com/93881327/210208962-4e2081e2-8fd2-44e9-bc68-0da71b65e66a.png" width="49%" /></a> 
+<a href="https://github.com/feliceforgione/iEats2"><img src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg" width="49%" /></a> 
 <a href="https://github.com/feliceforgione/otc_api"><img src="https://raw.githubusercontent.com/feliceforgione/otc_api/main/public/otc_api_homeScreenshot.png" width="49%" /></a> 
 
 
