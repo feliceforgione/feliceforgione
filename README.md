@@ -1,11 +1,9 @@
 ![logo](https://github.com/feliceforgione/feliceforgione/blob/main/img/githubbanner.jpg)
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
-🔭 I’m currently working on [iEats2](https://github.com/feliceforgione/iEats2)
-
 👨‍💻 Many of my projects are available at [feliceforgione.com](feliceforgione.com)
 
-💬 Ask me about **Javascript, Node, React, MongoDB, Oracle**
+💬 Ask me about **TypeScript, Next.js, React, MCP, AI, Node, MongoDB, Oracle**
 
 ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains 100,000 neurons and 1 billion synapses**
 
