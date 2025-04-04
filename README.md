@@ -252,15 +252,8 @@
       height="36"
       src="https://feliceforgione.com/icons/jest.svg"
     />&nbsp;
-    <img
-      alt="Jenkins"
-      title="Jenkins"
-      width="36"
-      height="36"
-      src="https://feliceforgione.com/icons/jenkins.svg"
-    />&nbsp;
 </div>
-<div align="none" style="clear: both"></div>
+<div align="none" style="clear: both">&nbsp;</div>
 <div  align="center">
   <img
     width="215"
