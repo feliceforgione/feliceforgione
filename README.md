@@ -132,16 +132,32 @@
 <div align="center">
   <H3> Databases</H3>
   <img
+      src="https://feliceforgione.com/icons/postgresql.svg"
+      width="36"
+      height="36"
+      alt="PostgreSQL"
+      title="PostgreSQL"
+  />&nbsp;
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
       width="36"
       height="36"
       alt="MongoDB"
+      title="MongoDB"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
       width="36"
       height="36"
       alt="MySQL"
+      title="MySQL"
+  />&nbsp;
+    <img
+      src="https://feliceforgione.com/icons/supabase.svg"
+      width="36"
+      height="36"
+      alt="Supabase"
+      title="Supabase"
   />&nbsp;
 <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg"
@@ -191,13 +207,6 @@
       src="https://feliceforgione.com/icons/n8n.svg"
     />&nbsp;
     <img
-      alt="Qdrant"
-      title="Qdrant"
-      width="36"
-      height="36"
-      src="https://feliceforgione.com/icons/qdrant.png"
-    />&nbsp;
-    <img
       alt="Ollama"
       title="Ollama"
       width="36"
@@ -206,7 +215,52 @@
     />
   </div>
 </div>
-
+div align="center">
+  <h3>DevOps</h3>
+    <img
+      alt="AWS"
+      title="AWS"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/aws.svg"
+    />   &nbsp; 
+    <img
+      alt="GCP"
+      title="GCP"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/gcp.svg"
+    />&nbsp;
+    <img
+      alt="Azure"
+      title="Azure"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/azure.svg"
+    />&nbsp;
+     <img
+      alt="Docker"
+      title="Docker"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/docker.svg"
+    />&nbsp;
+    <img
+      alt="Jest"
+      title="Jest"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/jest.svg"
+    />&nbsp;
+    <img
+      alt="Jenkins"
+      title="Jenkins"
+      width="36"
+      height="36"
+      src="https://feliceforgione.com/icons/jenkins.svg"
+    />&nbsp;
+</div>
+<div align="none" style="clear: both"></div>
 <div  align="center">
   <img
     width="215"
