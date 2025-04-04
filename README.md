@@ -268,7 +268,7 @@
 
 ## Socials
 
-<p align="left">
+<div align="left">
   <a
     href="https://www.github.com/feliceforgione"
     target="_blank"
@@ -293,8 +293,11 @@
       width="32"
       height="32"
   /></a>
-</p>
+</div>
+
+
 ## Featured Work
+<div>
 <a href="https://github.com/feliceforgione/foodiegram"><img
     src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png"
     width="49%"
@@ -304,8 +307,9 @@
     src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg"
     width="49%"
     height="500px"
-/></a>
+/></a></div>
 <hr width="98%" />
+<div>
 <a href="https://github.com/feliceforgione/medicineCabinet"
   ><img
     src="https://raw.githubusercontent.com/feliceforgione/medicineCabinet/main/public/medicineCabinetScreenshot.png"
@@ -318,8 +322,10 @@
     width="49%"
     height="500px"
 /></a>
+</div>
 
 ## GitHub Stats
+
 <div style="display: flex; justify-content: space-between">
   <img
     align="center"
