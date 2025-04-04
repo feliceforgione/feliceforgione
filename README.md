@@ -215,7 +215,7 @@
     />
   </div>
 </div>
-div align="center">
+<div align="center">
   <h3>DevOps</h3>
     <img
       alt="AWS"
@@ -236,7 +236,7 @@ div align="center">
       title="Azure"
       width="36"
       height="36"
-      src="https://feliceforgione.com/icons/azure.svg"
+      src="https://feliceforgione.com/icons/azure.png"
     />&nbsp;
      <img
       alt="Docker"
