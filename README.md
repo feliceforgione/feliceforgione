@@ -11,28 +11,25 @@
 
 ## Skills
 <div align="center">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
+  <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36"
       height="36"
-      alt="JavaScript"
-      style="margin: 5px"                                                                     
-  /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-    ><img
+      alt="JavaScript"  
+      title="JavaScript"
+  />&nbsp;
+ <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       width="36"
       height="36"
       alt="TypeScript"
-  /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
-    ><img
+  />&nbsp;
+  <img
       src="https://feliceforgione.com/icons/nextjs.svg"
       width="36"
       height="36"
       alt="Nextjs"
-  /></a>
+  />&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
@@ -277,7 +274,6 @@
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=feliceforgione&&show_icons=true&theme=tokyonight"
     width="49%"
   />
-
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight"
