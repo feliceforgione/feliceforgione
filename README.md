@@ -248,14 +248,12 @@
 </p>
 
 ## Featured Work
-<a href="https://github.com/feliceforgione/foodiegram"
-  ><img
+<a href="https://github.com/feliceforgione/foodiegram"><img
     src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png"
     width="49%"
     height="500px"
 /></a>
-<a href="https://github.com/feliceforgione/iEats2"
-  ><img
+<a href="https://github.com/feliceforgione/iEats2"><img
     src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg"
     width="49%"
     height="500px"
@@ -279,6 +277,12 @@
   <img
     align="center"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=feliceforgione&&show_icons=true&theme=tokyonight"
+    width="49%"
+  />
+
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=feliceforgione&theme=tokyonight"
     width="49%"
   />
 </div>
