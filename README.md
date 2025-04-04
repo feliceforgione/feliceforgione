@@ -24,82 +24,109 @@
       width="36"
       height="36"
       alt="TypeScript"
+      title="TypeScript"
   />&nbsp;
   <img
       src="https://feliceforgione.com/icons/nextjs.svg"
       width="36"
       height="36"
       alt="Nextjs"
+      title="Nextjs"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
       width="36"
       height="36"
       alt="React"
+      title="React"
   />&nbsp;
 <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
       width="36"
       height="36"
       alt="Webpack"
+      title="Webpack"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
       width="36"
       height="36"
       alt="TailwindCSS"
+      title="TailwindCSS"
   />&nbsp;
 <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
       width="36"
       height="36"
       alt="Bootstrap"
+      title="Bootstrap"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
       width="36"
       height="36"
       alt="HTML5"
+      title="HTML5"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
       width="36"
       height="36"
       alt="CSS3"
+      title="CSS3"
   />&nbsp;
 </div>
 
 <div align="center">  
   <H3> Backend</H3>
   <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+      src="https://feliceforgione.com/icons/python.svg"
       width="36"
       height="36"
-      alt="PHP"
+      alt="Python"
+      title="Python"
   />&nbsp;
 <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
       width="36"
       height="36"
       alt="NodeJS"
+      title="NodeJS"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
       width="36"
       height="36"
       alt="Express"
+      title="Express""
   />&nbsp;
  <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
       width="36"
       height="36"
       alt="GraphQL"
+      title="GraphQL"
   />&nbsp;
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
       width="36"
       height="36"
       alt="Fast API"
+      title="Fast API"
+  />&nbsp;
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+      width="36"
+      height="36"
+      alt="PHP"
+      title="PHP"
+  />&nbsp;
+   <img
+      src="https://feliceforgione.com/icons/stripe.svg"
+      width="36"
+      height="36"
+      alt="Stripe"
+      title="Stripe"
   />&nbsp;
 </div>
 <div align="center">
@@ -180,9 +207,7 @@
   </div>
 </div>
 
-<div
-  style="display: flex; align-items: center; justify-content: center; gap: 10px"
->
+<div  align="center">
   <img
     width="215"
     height="80"
@@ -205,7 +230,7 @@
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
       width="32"
       height="32"
-  /></a>
+  /></a>&nbsp;
   <a
     href="https://www.linkedin.com/in/feliceforgione"
     target="_blank"
@@ -214,7 +239,7 @@
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
       width="32"
       height="32"
-  /></a>
+  /></a>&nbsp;
   <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
@@ -222,7 +247,6 @@
       height="32"
   /></a>
 </p>
-
 ## Featured Work
 <a href="https://github.com/feliceforgione/foodiegram"><img
     src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png"
