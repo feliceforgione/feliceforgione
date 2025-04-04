@@ -11,14 +11,15 @@
 
 ## Skills
 <div align="center">
+  <H3> Frontend</H3>
   <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36"
       height="36"
-      alt="JavaScript"  
+      alt="JavaScript"
       title="JavaScript"
   />&nbsp;
- <img
+  <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       width="36"
       height="36"
@@ -30,13 +31,12 @@
       height="36"
       alt="Nextjs"
   />&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-    ><img
+  <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
       width="36"
       height="36"
       alt="React"
-  /></a>
+  />&nbsp;
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg"
