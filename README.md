@@ -1,3 +1,14 @@
+![logo](https://github.com/feliceforgione/feliceforgione/blob/main/img/githubbanner.jpg)
+<h3 align="center">A passionate full-stack web developer from New York</h3>
+
+👨‍💻 Many of my projects are available at [feliceforgione.com](feliceforgione.com)
+⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains
+100,000 neurons and 1 billion synapses**
+<br />
+
+<div align="none" style="clear: both"></div>
+
+## Skills
 <div align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -147,6 +158,7 @@
       height="36"
       src="https://feliceforgione.com/icons/openai.svg"
     />
+
     <img
       alt="LangChain"
       title="LangChain"
@@ -154,6 +166,7 @@
       height="36"
       src="https://feliceforgione.com/icons/langchain.svg"
     />
+
     <img
       alt="Vercel AI"
       title="Vercel AI"
@@ -168,6 +181,7 @@
       height="36"
       src="https://feliceforgione.com/icons/gemini.svg"
     />
+
     <img
       alt="n8n"
       title="n8n"
@@ -175,6 +189,7 @@
       height="36"
       src="https://feliceforgione.com/icons/n8n.svg"
     />
+
     <img
       alt="Qdrant"
       title="Qdrant"
@@ -203,5 +218,70 @@
     width="225"
     height="80"
     src="https://feliceforgione.com/_next/image?url=%2Foracle-dba-badge.png&w=640&q=75"
+  />
+</div>
+
+## Socials
+
+<p align="left">
+  <a
+    href="https://www.github.com/feliceforgione"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      width="32"
+      height="32"
+  /></a>
+  <a
+    href="https://www.linkedin.com/in/feliceforgione"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32"
+      height="32"
+  /></a>
+  <a href="https://www.twitter.com/forgione67" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+      width="32"
+      height="32"
+  /></a>
+</p>
+
+## Featured Work
+<a href="https://github.com/feliceforgione/foodiegram"
+  ><img
+    src="https://user-images.githubusercontent.com/93881327/210208867-2cb251ad-941b-41c4-a0f5-e276efde21da.png"
+    width="49%"
+    height="500px"
+/></a>
+<a href="https://github.com/feliceforgione/iEats2"
+  ><img
+    src="https://raw.githubusercontent.com/feliceforgione/iEats2/main/public/ieatsScreenshot.jpg"
+    width="49%"
+    height="500px"
+/></a>
+<hr width="98%" />
+<a href="https://github.com/feliceforgione/medicineCabinet"
+  ><img
+    src="https://raw.githubusercontent.com/feliceforgione/medicineCabinet/main/public/medicineCabinetScreenshot.png"
+    width="49%"
+    height="500px"
+/></a>
+<a href="https://github.com/feliceforgione/otc_api"
+  ><img
+    src="https://raw.githubusercontent.com/feliceforgione/otc_api/main/public/otc_api_homeScreenshot.png"
+    width="49%"
+    height="500px"
+/></a>
+
+## GitHub Stats
+<div style="display: flex; justify-content: space-between">
+  <img
+    align="center"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=feliceforgione&&show_icons=true&theme=tokyonight"
+    width="49%"
   />
 </div>
