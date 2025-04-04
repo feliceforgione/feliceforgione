@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from New York</h3>
 
 👨‍💻 Many of my projects are available at [feliceforgione.com](feliceforgione.com)
+
 ⚡ Fun fact **A piece of brain tissue the size of a grain of sand contains
 100,000 neurons and 1 billion synapses**
 <br />
@@ -158,7 +159,6 @@
       height="36"
       src="https://feliceforgione.com/icons/openai.svg"
     />
-
     <img
       alt="LangChain"
       title="LangChain"
@@ -166,7 +166,6 @@
       height="36"
       src="https://feliceforgione.com/icons/langchain.svg"
     />
-
     <img
       alt="Vercel AI"
       title="Vercel AI"
@@ -181,7 +180,6 @@
       height="36"
       src="https://feliceforgione.com/icons/gemini.svg"
     />
-
     <img
       alt="n8n"
       title="n8n"
@@ -189,7 +187,6 @@
       height="36"
       src="https://feliceforgione.com/icons/n8n.svg"
     />
-
     <img
       alt="Qdrant"
       title="Qdrant"
